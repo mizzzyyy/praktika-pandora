@@ -112,7 +112,7 @@
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
-			<Language>Русский</Language><Subsystem>Транспорт</Subsystem><Catalog>ТранспортныеСредства</Catalog><Catalog>ФизическиеЛица</Catalog><Catalog>Номенклатура</Catalog><Catalog>Водители</Catalog><Catalog>Грузчики</Catalog><Catalog>Контрагенты</Catalog><Catalog>КонтактныеЛица</Catalog><Document>ЗаявкаНаТранспорт</Document><Document>ПутевойЛист</Document><Document>ВыплатаГрузчикам</Document><Enum>СтатусыЗаявки</Enum><Report>КилометражПоМашинам</Report><Report>СвободныеМашины</Report><Report>ОплатаГрузчикам</Report><Report>ЗадолженностьПередГрузчиками</Report><Report>РаботаВодителей</Report><AccumulationRegister>ВзаиморасчетыСГрузчиками</AccumulationRegister><AccumulationRegister>РаботаТранспорта</AccumulationRegister>
+			<Language>Русский</Language><Subsystem>Транспорт</Subsystem><CommonModule>ЗаполнениеДемоДанных</CommonModule><CommonCommand>ЗаполнитьДемоДанными</CommonCommand><Catalog>ТранспортныеСредства</Catalog><Catalog>ФизическиеЛица</Catalog><Catalog>Номенклатура</Catalog><Catalog>Водители</Catalog><Catalog>Грузчики</Catalog><Catalog>Контрагенты</Catalog><Catalog>КонтактныеЛица</Catalog><Document>ЗаявкаНаТранспорт</Document><Document>ПутевойЛист</Document><Document>ВыплатаГрузчикам</Document><Enum>СтатусыЗаявки</Enum><Report>КилометражПоМашинам</Report><Report>СвободныеМашины</Report><Report>ОплатаГрузчикам</Report><Report>ЗадолженностьПередГрузчиками</Report><Report>РаботаВодителей</Report><AccumulationRegister>ВзаиморасчетыСГрузчиками</AccumulationRegister><AccumulationRegister>РаботаТранспорта</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
